@@ -1,0 +1,9 @@
+{
+    "name": "WP Standards Release",
+    "description": "Release workflow for our boilerplate repositories.",
+    "iconName": "example-icon",
+    "categories": [
+        "PHP",
+				"CSS"
+    ]
+}
